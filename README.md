@@ -1,2 +1,2 @@
-# .github
-README.md
+# The Funkin' Zside Team
+**HELLO EVERYONE!!!**

@@ -2,8 +2,8 @@
 **HELLO EVERYONE!!!**
 
 ## Team Project
-* FridayNightFunkin' Zside - unrelease
-* VS IMPOSTOR Zside - v1.0.0
+* FridayNightFunkin' Zside - A remix mod of FridayNightFunkin' Basegame. unreleased.
+* VS IMPOSTOR Zside - A remix mod of VS IMPOSTOR Zside. v1.0.0
 * ???? ?????? - soon...
 
 ## Join Us

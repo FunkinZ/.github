@@ -21,6 +21,6 @@
 * Voiid
 
 ## Team Project
-* FridayNightFunkin' Zside
-* VS IMPOSTOR Zside
-* ???? ??????
+* FridayNightFunkin' Zside - unrelease
+* VS IMPOSTOR Zside - v1.0.0
+* ???? ?????? - soon...

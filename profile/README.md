@@ -1,6 +1,17 @@
 # The Funkin' Zside Team
 **HELLO EVERYONE!!!**
 
+## Team Project
+* FridayNightFunkin' Zside - unrelease
+* VS IMPOSTOR Zside - v1.0.0
+* ???? ?????? - soon...
+
+## Join Us
+soon...
+
+## Contact
+soon...
+
 ## About of us
 ### Profile
 | Category | Meta | Note |
@@ -19,8 +30,3 @@
 * shikumiro!
 * Mikankun
 * Voiid
-
-## Team Project
-* FridayNightFunkin' Zside - unrelease
-* VS IMPOSTOR Zside - v1.0.0
-* ???? ?????? - soon...

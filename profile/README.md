@@ -8,7 +8,6 @@
 | Name | The Funkin' Zside Team | |
 | Created at | 3/9/2026 |  |
 | Number of members  | 6 |  |
-| Initial Member
 
 ### Initial Members
 * Youba (Team Producer)

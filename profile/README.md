@@ -1,5 +1,6 @@
-# The Funkin' Zside Team
+# THE FUNKIN Zside TEAM
 **HELLO EVERYONE!!!**
+This is the GitHub page of The Funkin' Zside Team.
 
 ## Team Project
 * FridayNightFunkin' Zside - A remix mod of FridayNightFunkin' Basegame. unreleased.

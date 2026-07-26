@@ -19,7 +19,7 @@ soon...
 | Category | Meta | Note |
 |:---------|:-----|:-----|
 | Name | The Funkin' Zside Team | |
-| Created at | 3/9/2026 |  |
+| Creation day | 3/9/2026 |  |
 | Number of members  | 6 |  |
 
 ### Initial Members
